@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available on Github.
 
-- 💬 Ask me about **React , python , php , nodejs,javascript,Java,c++,c# etc**
+- 💬 Ask me about **Reactjs, python , php , nodejs,javascript,Java,c++,c# ,flutter,nodejs,nextjs ,html , css etc**
 
 - 📫 How to reach me **tanishjain4778@gmail.com**
 
